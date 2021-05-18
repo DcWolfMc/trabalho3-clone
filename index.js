@@ -12,7 +12,7 @@ app.get("/produtos", function(req,res){
 })
 
 app.get("/equipe", function(req,res){
-    res.send("<h1>Daniel Colares</h1><h1>Diego Ponte</h1><h1>Felipe Luz</h1><h1>Romulo Jales</h1>");
+    res.send("<h1>Daniel Colares Daniel Colares</h1><h1>Diego Ponte</h1><h1>Felipe Luz</h1><h1>Romulo Jales</h1>");
 })
 
 //rota com parametro 
